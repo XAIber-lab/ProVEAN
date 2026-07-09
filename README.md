@@ -74,3 +74,10 @@ Languages and technologies used:
 - TypeScript
 - HTML
 - CSS
+
+## Video Demo
+
+A demonstration video is available showing a network in which most hosts are affected only by lower-risk attacks, while four hosts (IDs 92, 47, 97, and 117) exhibit critical risk. 
+The video illustrates how identifying and prioritizing the protection of these hosts significantly improves the security of the entire subnetwork.
+
+[🎥 Watch the demo](./demo_caseStudy.mp4)
