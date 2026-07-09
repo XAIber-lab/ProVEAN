@@ -76,8 +76,9 @@ Languages and technologies used:
 - CSS
 
 ## Video Demo
-
-A demonstration video is available showing a network in which most hosts are affected only by lower-risk attacks, while four hosts (IDs 92, 47, 97, and 117) exhibit critical risk. 
+A video tutorial is available to explore the main functionalities of ProVEAN, as well as a demonstration video is available showing a network in which most hosts are affected only by lower-risk attacks, while four hosts (IDs 92, 47, 97, and 117) exhibit critical risk. 
 The video illustrates how identifying and prioritizing the protection of these hosts significantly improves the security of the entire subnetwork.
 
-[🎥 Watch the demo](./demo_caseStudy.mp4)
+[🎥 Watch the tutorial](demo/tutorial_subtitles.mp4)
+
+[🎥 Watch the demo](demo/demo_caseStudy_compressed.mp4)
